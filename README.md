@@ -1,1 +1,1 @@
-# mageClassification-using-Neural-Network
+# ImageClassification-using-Neural-Network
